@@ -1,0 +1,8 @@
+{
+  "name": "pocketcasts",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-packager": "^8.7.0"
+  }
+}
